@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+}
+
+.TOP {
+  height: 100%;
+  width: 100%;
+  background-color: red;
+  text-align: center;
+}
+
+.CLOUD-1 {
+  height: 20%;
+  width: 20%;
+  position: relative;
+  left: 30%;
+}
+
+.HEADER {
+  margin-top: 0;
+}
+
+.CLOUD-2 {
+  display: block;
+  height: 20%;
+  width: 20%;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  right: 30%;
+}
+
+.CODER {
+  height: 30%;
+  width: 30%;
+}
