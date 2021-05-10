@@ -10,12 +10,14 @@ body {
 
 .CONTACT {
   text-align: center;
-  height: auto;
-  width: auto;
   background-color: #1cc5dc;
   color: #c0fefc;
-  padding: 100%;
-  font-size: 50%;
-  font-weight: bold;
+  padding-bottom: 50%;
+
 
 }
+
+.TEXT{
+  text-align: center;
+}
+
