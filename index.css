@@ -77,3 +77,11 @@ body {
   position: relative;
   top: 1.5rem;
 }
+.FOOTER{
+  margin-top: 1.25rem;
+  padding: 1.25rem;
+  text-align: center;
+  background-color: #c0fefc;
+  height: auto;
+  width: auto;
+}
