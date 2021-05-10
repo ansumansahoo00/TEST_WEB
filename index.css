@@ -25,6 +25,13 @@ body {
   font-size: 200%;
 }
 
+.SKILLS{
+  text-align: center;
+  margin: 3.125rem;
+}
+
+
+
 .CLOUD-2 {
   display: block;
   height: 20%;
@@ -38,4 +45,35 @@ body {
 .CODER {
   height: 30%;
   width: 30%;
+}
+
+.IMG{
+  height: 10%;
+  width: 10%;
+}
+
+
+.SKILL{
+
+  margin: 10.125rem;
+}
+
+.LEFT{
+
+
+  position: absolute;
+  left: 25%;
+
+
+}
+
+.RIGHT{
+  position: absolute;
+  right: 25%;
+}
+
+.SKILL-NAME{
+  text-align: center;
+  position: relative;
+  top: 1.5rem;
 }
