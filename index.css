@@ -5,7 +5,8 @@ body {
 .TOP {
   height: 100%;
   width: 100%;
-  background-color: red;
+  background-color: #1cc5dc;
+  color: #c0fefc;
   text-align: center;
 }
 
