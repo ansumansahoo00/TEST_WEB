@@ -18,6 +18,10 @@ body {
 
 .HEADER {
   margin-top: 0;
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 2rem;
 }
 
 .CLOUD-2 {
