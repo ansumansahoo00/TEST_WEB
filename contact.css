@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  font-weight: bold;
+}
+
+
+.first{
+  margin-top: 0;
+}
+
+.CONTACT {
+  text-align: center;
+  height: auto;
+  width: auto;
+  background-color: #1cc5dc;
+  color: #c0fefc;
+  padding: 400px;
+  font-size: 1rem;
+  font-weight: bold;
+
+}
