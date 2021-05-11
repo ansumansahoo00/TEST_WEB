@@ -15,24 +15,8 @@ body {
 }
 
 .PARA{
-
-  body {
-
-  margin: 0;
-
-}
-
-.CONTACT {
-
-  background-color:  #1cc5dc;;
-  height: auto;
-  width: auto;
-
-
-}
-
-.PARA{
   
+  object-position: 50% 50%;
   object-fit: contain;
   margin-top: auto;
   text-align: center;
