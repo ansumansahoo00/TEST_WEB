@@ -1,24 +1,25 @@
+
 body {
+
   margin: 0;
-  font-weight: bold;
-}
 
-
-.first{
-  margin-top: 0;
 }
 
 .CONTACT {
-  background-color: #1cc5dc;
-  color: #c0fefc;
-  padding-bottom: 50%;
-  padding-right: 80%;
+
+  background-color:  #1cc5dc;;
+  height: auto;
+  width: auto;
 
 
 }
 
-.TEXT{
+.PARA{
+
+  margin-top: auto;
   text-align: center;
-  font-size: 0.8rem;
+  
+
 }
+
 
