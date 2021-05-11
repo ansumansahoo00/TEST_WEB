@@ -8,6 +8,7 @@ body {
   background-color: #1cc5dc;
   color: #c0fefc;
   text-align: center;
+  object-fit: contain;
 }
 
 .CLOUD-1 {
